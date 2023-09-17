@@ -1,0 +1,9 @@
+Dockerfile
+Jenkinsfile
+JenkinsfileSepBatch
+Jenkinsparalleljob
+Jenkinspipeline
+docker-compose.yml
+mavenwebappdeployment.yaml
+pom.xml
+/src
